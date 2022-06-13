@@ -1,6 +1,6 @@
 FROM node:lts-slim
 
-EXPOSE 3000
+EXPOSE 80
 
 COPY package.json /code/package.json
 
@@ -12,4 +12,4 @@ COPY . /code
 
 RUN npm install
 
-CMD npm start
+CMD PORT=80 npm start
