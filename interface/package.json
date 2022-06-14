@@ -1,6 +1,6 @@
 {
-  "name": "dalle-playground",
-  "homepage": "https://saharmor.github.io/dalle-playground",
+  "name": "dalle",
+  "homepage": "http://dalle.bachfischer.me",
   "version": "0.0.0",
   "private": false,
   "scripts": {
@@ -20,7 +20,7 @@
     "qs": "^6.10.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.0",
+    "react-scripts": "^3.4.1",
     "react-spinners": "^0.11.0"
   },
   "devDependencies": {
