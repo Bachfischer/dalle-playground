@@ -35,4 +35,4 @@ jobs:
             registry-password: ${{ secrets.REGISTRY_PASSWORD }}
             name: dalle-interface
             location: 'north europe'
-            ports: 3000
+            ports: 80

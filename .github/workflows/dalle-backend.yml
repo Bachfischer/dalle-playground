@@ -33,7 +33,7 @@ jobs:
             registry-username: ${{ secrets.REGISTRY_USERNAME }}
             registry-password: ${{ secrets.REGISTRY_PASSWORD }}
             name: dalle-backend
-            location: 'north europe'
+            location: 'west europe'
             ports: 8080
             gpu-count: 1
             gpu-sku: K80
