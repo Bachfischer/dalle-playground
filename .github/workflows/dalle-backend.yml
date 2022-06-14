@@ -37,3 +37,5 @@ jobs:
             ports: 8080
             gpu-count: 1
             gpu-sku: K80
+            cpu: 4
+            memory: 8
